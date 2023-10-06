@@ -1,11 +1,10 @@
-#Algorithm Description
+**Algorithm Description** 
 
 **Algorithm Name:** Helios-LSTM
 
 **Objective:** To monitor solar wind activity using NASA data and predict solar wind patterns with high accuracy.
 
 **Methodology:**
-
 1. **Data Collection and Integration**
    - Retrieve data from three NASA APIs: Solar Wind, Solar Radiation (CME), and Geomagnetic Storm.
    - Integrate the data to create a comprehensive dataset for model training.
@@ -39,5 +38,4 @@
    - Assess the model's performance against existing methods.
    - Achieve an impressive accuracy rate of 94%.
    
-**Results:**
-The Helios-LSTM model demonstrates outstanding performance in monitoring solar wind activity and predicting patterns with a 94% accuracy rate. This achievement surpasses existing methods and provides a reliable tool for solar wind analysis.
+**Results:** The Helios-LSTM model demonstrates outstanding performance in monitoring solar wind activity and predicting patterns with a 94% accuracy rate. This achievement surpasses existing methods and provides a reliable tool for solar wind analysis.
