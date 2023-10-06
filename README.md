@@ -4,6 +4,8 @@
 
 **Objective:** To monitor solar wind activity using NASA data and predict solar wind patterns with high accuracy.
 
+**Solar Wind Data:** [solar_wind.csv](https://drive.google.com/file/d/1A1KiawBjZuL9JUOFrq_l9ihm5X5HnJ-P/view?usp=sharing)
+
 **Methodology:**
 
 1. **Data Collection and Integration**
