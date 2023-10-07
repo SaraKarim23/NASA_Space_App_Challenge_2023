@@ -4,7 +4,7 @@
 
 **Objective:** To monitor solar wind activity using NASA data and predict solar wind patterns with high accuracy.
 
-**Solar Wind Data:** [solar_wind.csv](https://drive.google.com/file/d/1A1KiawBjZuL9JUOFrq_l9ihm5X5HnJ-P/view?usp=sharing)
+**NASA Resources we have used:** [solar_wind.csv](https://drive.google.com/file/d/1A1KiawBjZuL9JUOFrq_l9ihm5X5HnJ-P/view?usp=sharing) , [labels.csv](https://drive.google.com/file/d/1_NNsvGC06K4tUYL94pxVMIfE57VtDxs_/view?usp=drive_link), [sunspots.csv](https://drive.google.com/file/d/1hqrUNgn-HFGzgk3C0czb5JIRHSm6sFfF/view?usp=drive_link), [SolarPrediction.csv](https://drive.google.com/file/d/12LiVVZcZxnAKlmO_hm9C0rB-LCNb0bgn/view?usp=drive_link)
 
 **App Source Code**: [Helios_Explorer.zip](https://drive.google.com/file/d/1pFz0P5rLq6BSr3rLWrIohW79U7XwY1Iu/view?usp=sharing) 
 
